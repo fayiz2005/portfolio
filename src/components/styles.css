@@ -1,0 +1,138 @@
+.profile-image {
+  width: 300px;        
+  height: 300px;        
+  border-radius: 50%; 
+  object-fit: cover;    
+  display: block;       
+  border: 3px solid #333; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.2); 
+  margin:30px;
+  
+}
+.HeaderBody{
+    background-color: #141619;
+    margin-bottom: 50px;
+    padding: 20px;
+    display:flex;
+    align-items: center;
+
+}
+.Logo{
+    font-family: fantasy;
+    font-size: 70px;
+    margin:20px;
+    
+}
+
+.description {
+  color: #e3e2df;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding: 20px;
+  line-height: 1.6;
+    margin-left: auto;     
+    margin-right: auto; 
+}
+.highlight{
+font-size:40px ;
+color:#d3d9d4
+}
+
+@media (max-width: 768px) {
+  .description {
+    padding: 20px 10px;
+    font-size: 10px;
+    text-align: center;        
+    margin-left: auto;      
+    margin-right: auto;         
+  }
+
+  .highlight {
+    font-size: 20px;
+  }
+}
+
+
+
+.home-container {
+  padding: 40px;
+
+}
+
+.project-demo {
+  background-color: white;
+margin-top: 10px;
+  color: #141619;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  max-width: 900px;
+
+}
+
+.video-and-text {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.video-container {
+  margin-top: 10px;
+  flex: 1;
+  border-radius: 8px;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+
+
+.project-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.project-info h3 {
+  margin-bottom: 10px;
+}
+
+.project-info p {
+  margin-bottom: 15px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.btn-dark {
+  background-color: #141619;
+  border: none;
+  align-self: flex-start;
+}
+
+.btn-dark:hover {
+  background-color: #333;
+}
+
+
+
+.video-container iframe {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.project-demo {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.project-demo iframe {
+  width: 100%;
+  max-width: 480px;
+  height: 270px; /* 16:9 aspect ratio */
+  border: none;
+  margin-bottom: 10px;
+}
