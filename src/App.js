@@ -3,8 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import {Header} from "./components/Header";
 import { Education } from "./components/Education";
 import { Projects } from "./components/Projects";
-import { Home, ProjectDemo} from "./components/Home";
+import { Home} from "./components/Home";
 import { Contact } from "./components/Contact";
+
 
 function App() {
   return (
