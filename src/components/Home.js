@@ -38,7 +38,7 @@ export function Home() {
       <ProjectDemo
         title="Ecommerce Website"
         videoUrl="https://www.youtube.com/embed/YOUR_WEATHER_APP_VIDEO_ID"
-        projectLink="https://yourweatherapp.com"
+        projectLink="https://essentialthreads-frontend.onrender.com/"
         description="A fully functioning e-commerce website built with React JS and Django as a practice project. It includes PayPal and credit card payment integration and is fully mobile responsive."
       />
 
