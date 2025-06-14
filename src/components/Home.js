@@ -38,7 +38,7 @@ export function Home() {
       <ProjectDemo
         title="Ecommerce Website"
         videoUrl="https://www.youtube.com/embed/YOUR_WEATHER_APP_VIDEO_ID"
-        projectLink="https://essentialthreads-frontend.onrender.com/"
+        projectLink="https://essential-threads-frontend.vercel.app/"
         description="A fully functioning e-commerce website built with React JS and Django as a practice project. It includes PayPal and credit card payment integration and is fully mobile responsive."
       />
 
@@ -47,6 +47,18 @@ export function Home() {
         videoUrl="https://www.youtube.com/embed/YOUR_PORTFOLIO_VIDEO_ID"
         projectLink="https://yourportfolio.com"
         description="My personal portfolio built with React. Showcases my skills, projects, and background with a clean, responsive design."
+      />
+      <ProjectDemo
+        title="Rock Paper Scissors game"
+        videoUrl="https://www.youtube.com/embed/YOUR_PORTFOLIO_VIDEO_ID"
+        projectLink="https://rps-inky.vercel.app/"
+        description="This was the first project I ever made. It took a lot of effort beleive it or not"
+      />
+      <ProjectDemo
+        title="Tic Tac Toe"
+        videoUrl="https://www.youtube.com/embed/YOUR_PORTFOLIO_VIDEO_ID"
+        projectLink="https://tic-tac-toe-tau-ten-78.vercel.app/"
+        description="That one game you played in 5th grade "
       />
     </div>
   );
