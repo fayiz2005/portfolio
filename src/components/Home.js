@@ -58,7 +58,7 @@ export function Home() {
         title="Tic Tac Toe"
         videoUrl="https://www.youtube.com/embed/YOUR_PORTFOLIO_VIDEO_ID"
         projectLink="https://tic-tac-toe-tau-ten-78.vercel.app/"
-        description="That one game you played in 5th grade "
+        description="This is that one game you played in 5th grade. I honestly had nostalgia while making this. This is the one thing I miss about middle school."
       />
     </div>
   );
