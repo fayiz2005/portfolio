@@ -45,7 +45,7 @@ export function Home() {
       <ProjectDemo
         title="Portfolio Website"
         videoUrl="https://www.youtube.com/embed/YOUR_PORTFOLIO_VIDEO_ID"
-        projectLink="https://yourportfolio.com"
+        projectLink="https://portfolio-2he6kit4c-fayiz2005s-projects.vercel.app/"
         description="My personal portfolio built with React. Showcases my skills, projects, and background with a clean, responsive design."
       />
       <ProjectDemo
