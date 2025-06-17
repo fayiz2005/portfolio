@@ -21,8 +21,10 @@
     font-family: 'Arial Narrow', Arial, sans-serif;
     font-size: 70px;
     margin:20px;
-    
+    font-weight: 800;
 }
+    
+
 
 .description {
   color: #e3e2df;
