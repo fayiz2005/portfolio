@@ -138,3 +138,43 @@ align-items: center;
   border: none;
   margin-bottom: 10px;
 }
+
+.contact-section {
+  background-color: #141619;
+  color: #e3e2df;
+  padding: 40px 20px;
+  margin: 40px auto;
+  text-align: center;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  max-width: 800px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+
+.contact-title {
+  font-size: 36px;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+.contact-text {
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.contact-links p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.contact-links a {
+  color: #d3d9d4;
+  text-decoration: underline;
+}
+
+.contact-links a:hover {
+  color: #ffffff;
+}
