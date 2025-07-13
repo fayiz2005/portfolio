@@ -36,6 +36,13 @@ export function Home() {
       <h2 className="projects-title">My Projects</h2>
 
     <ProjectDemo
+      title="Property Website"
+      videoUrl="https://www.youtube.com/watch?v=rzFqNJJPlVQ"
+      projectLink="https://essentialthreads.netlify.app/"
+      description="A fully functioning e-commerce website built with Next JS and Tailwind as a practice project."
+    />
+
+    <ProjectDemo
       title="Ecommerce Website"
       videoUrl="https://www.youtube.com/embed/P9HxIypxhyc"
       projectLink="https://essentialthreads.netlify.app/"

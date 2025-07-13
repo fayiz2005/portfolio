@@ -9,9 +9,7 @@ export function Contact(){
       <div className="contact-links">
         <p>
           Email:{" "}
-          <a href="mailto:fayiz.islam2005@gmail.com">
-            fayiz.islam2005@gmail.com
-          </a>
+          <a href="mailto:fayiz.islam2005@gmail.com">fayiz.islam2005@gmail.com</a>
         </p>
         <p>
           Upwork:{" "}
