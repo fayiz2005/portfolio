@@ -37,7 +37,7 @@ export function Home() {
 
     <ProjectDemo
       title="Property Website"
-      videoUrl="https://www.youtube.com/watch?v=rzFqNJJPlVQ"
+      videoUrl="https://www.youtube.com/embed/rzFqNJJPlVQ"
       projectLink="https://essentialthreads.netlify.app/"
       description="A fully functioning e-commerce website built with Next JS and Tailwind as a practice project."
     />
