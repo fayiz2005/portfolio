@@ -21,6 +21,17 @@ export function Contact(){
             View my Upwork Profile
           </a>
         </p>
+        <p>
+          Fiverr:{" "}
+          <a
+            href="https://www.fiverr.com/s/xXQNe2X"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View my Fiverr Profile
+          </a>
+        </p>
+                  
       </div>
     </section>
   );
