@@ -37,7 +37,7 @@ export function Header() {
   <div className="col description">
     <span className="highlight">Hi, I’m Fayiz</span><br />
     I’m an aspiring <span className="highlight">Computer Science Major</span><br />
-    I'm an incoming student at UBC (just got my Visa).<br />
+    I'm an Undergraduate student at UBC.<br />
     I'm also a full-stack developer. Let me help you bring your ideas to life.
   </div>
 </div>
