@@ -10,7 +10,7 @@ export function Education() {
           <h4 className="card-title">University of British Columbia (UBC)</h4>
           <h6 className="card-subtitle mb-2">Starting Fall 2025</h6>
           <p className="card-text">
-            Incoming undergraduate student majoring in Computer Science. 
+            Undergraduate student hoping to major in Computer Science and Mathematics. 
             Recipient of the <strong>Outstanding International Student (OIS) Award</strong>, granted for academic excellence and leadership potential.
           </p>
         </div>
